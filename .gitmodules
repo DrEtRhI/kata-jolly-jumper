@@ -1,0 +1,3 @@
+[submodule "simple_kata_tester"]
+	path = simple_kata_tester
+	url = https://github.com/VLambret/simple_kata_tester.git
